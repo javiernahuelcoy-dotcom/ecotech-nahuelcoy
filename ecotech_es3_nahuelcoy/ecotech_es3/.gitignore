@@ -1,0 +1,12 @@
+# Variables de entorno con datos locales o credenciales
+.env
+
+# Bases de datos locales
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
